@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Florida Data Science</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Florida Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Florida Data Science, Inc. 2016-present</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Florida Open Data</title>
+      <link>/post/florida-open-data/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/florida-open-data/</guid>
+      <description> Open data in Florida As of February 2018, according to data.gov, 48 states have open data sites, and Florida is one of them.
+ </description>
+    </item>
+    
+    <item>
+      <title>Lenovo P51 - the Data Scientist&#39;s laptop</title>
+      <link>/post/lenovo-p51-the-data-scientist-laptop/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lenovo-p51-the-data-scientist-laptop/</guid>
+      <description>Recently, as part of a computer refresh, I have moved from a Microsoft Surface Pro 3 to a Lenovo P51. The Microsoft Surface Pro 3 was the right computer for me at the time I got it, but as time went by my position changed substantially, and it ceased to be appropriate for me.
+When I got the Surface, the core of my work consisted in traveling, having conference calls and light emailing and spreadsheet work.</description>
+    </item>
+    
+  </channel>
+</rss>
