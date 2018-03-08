@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-75015365-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -50,15 +50,15 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lucas A. Meyer"
-  role = "Data Scientist | Indie Gamer | Busy Dad"
+  name = "Florida Data Science"
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Washington - Seattle", url = "" }, {name = "Microsoft Corporation", url = "" }]
+  # organizations = [ { name = "University of Washington - Seattle", url = "" }, {name = "Microsoft Corporation", url = "" }]
 
   # gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "bias.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "flds.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "lucas@floridadatascience.org"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
